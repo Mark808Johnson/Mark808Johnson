@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Mark808Johnson
-- 👀 I’m interested in computer science, backend and frontend development. In spare time, I play guitar, sing, and keep myself active with football and skiing
-- 🌱 I’m currently learning data science using python and full-stack web development 
-- 💞️ I’m looking to collaborate on internship and junior developer positions
+- 👋 Hi, I’m Mark :)
+
+- 💻 I’m interested in data-science and web-development, particularly object-orientated programming with Python. Presently also developing my full-stack skills using Node.js and React. 
+
+- 👀 Currently seeking internship/junior developer positions in Finland.
+
+- ⛷️ In my spare time I play guitar, sing tenor, and keep active with football and skiing.
+
 - 📫 How to reach me .... mark808johnson@gmail.com, https://www.linkedin.com/in/mark-johnson-27b75777/  
 
 <!---
